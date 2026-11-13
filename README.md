@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vickry (Pikri) 👋</h1>
+<h1 align="center">Hi, I'm Vickry (Pikri) </h1>
 
 <h3 align="center">Backend Engineer · Applied AI · Cloud Systems</h3>
 
