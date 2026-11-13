@@ -30,5 +30,5 @@ Computer Science student at BINUS University focused on Backend Engineering, Clo
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pikrieuy&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=pikrieuy&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
