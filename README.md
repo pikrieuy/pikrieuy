@@ -11,6 +11,7 @@ Computer Science student at BINUS University focused on Backend Engineering, Clo
 
 | Project | Description | Stack / Tech |
 |---|---|---|
+| [**vault-brain**](https://github.com/pikrieuy/vault-brain) | Local GraphRAG knowledge engine. Parses Obsidian vault markdown into a knowledge graph with NetworkX and SQLite WAL persistence, served to AI agents via FastMCP tools. | Python 3, NetworkX, SQLite WAL, FastMCP |
 | [**tiktok-winning-ad-spy**](https://github.com/pikrieuy/tiktok-winning-ad-spy) | Reverse-engineered TikTok Creative Center intelligence engine. Calculates hook retention rates (2s & 6s), includes a FastMCP server for AI agents, and deploys as an Apify Cloud Actor. | Python 3, FastMCP, Apify SDK, Docker |
 | [**Beemate**](https://beemate.web.id) | Academic competition discovery and team matchmaker platform for university students. Curates verified IT events with real-time Discord community distribution. | TypeScript, Next.js, Supabase, PostgreSQL |
 | [**askmydocs**](https://github.com/pikrieuy/askmydocs) | Monorepo backend service for document ingestion, parsing, and automated query pipelines. | FastAPI, Docker, GitHub Actions CI |
